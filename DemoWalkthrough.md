@@ -5,7 +5,18 @@ By following this walkthrough, you can re-create the projects in this repository
 
 **Level**: Introductory  
 
-**Target**: C# developers who have been working with .NET Framework and are interested in trying out .NET 5. 
+**Target Audience**: C# developers who have been working with .NET Framework and are interested in trying out .NET 5. 
+
+**Goal**: Get comfortable using .NET 5 from the command line.
+
+* Create new projects (web service, unit test, console application).
+* Run a web service in a self-hosted environment.
+* Add a reference to another project.
+* Run unit tests.
+* Add a NuGet package.
+* Create a solution and add projects.  
+
+Along the way, we'll also see how the project system differs between .NET Framework and .NET Core/.NET 5. We'll also use the built-in dependency injection container that comes with ASP&#0046;NET Core.
 
 **Required Software**:  
 * .NET 5.0 SDK  
